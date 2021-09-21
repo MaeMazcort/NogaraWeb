@@ -1,0 +1,39 @@
+body{
+    background-color: #1E1E1E;
+    color: white;
+}
+
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 2rem;
+}
+
+div{
+    background-color: teal;
+}
+
+p{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-style: italic;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow:2px, 2px, 2px rgb(238, 222, 130);
+}
+
+#u1{
+    height: 50px;
+}
+#u2{
+    width: 50%;
+    height: 50pt;
+}
+#u3{
+    width: 50vw;
+    height: 50px;
+}
