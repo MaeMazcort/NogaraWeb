@@ -1,0 +1,43 @@
+*{
+    margin: 0px
+}
+
+body{
+    background-color: #1E1E1E;
+}
+
+div{
+    /*margin-top: 10px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    margin-left: 20px;*/
+    text-align: center;
+    margin: 20px 15px 25px 30px;
+    border: 3px solid rgb(117, 0, 117);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+span{
+    padding: 20px;
+}
+
+section{
+    background-color: skyblue;
+    color: slategray;
+    text-align: center;
+    width: 50vw;
+}
+
+#div1{
+    background-color: lightcoral;
+    height: 50px;
+}
+#div2{
+    background-color: rgb(63, 166, 235);
+    height: 80px;
+}
+#div3{
+    background-color: rgb(63, 235, 178);
+    height: 30px;
+}

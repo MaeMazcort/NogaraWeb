@@ -1,0 +1,33 @@
+*{
+    border: 0px;
+}
+
+body{
+    background-color: #1E1E1E;
+}
+
+ul{
+    word-spacing: 10px;
+}
+
+ul li{
+    display: inline;
+}
+span{
+    background-color: #383838;
+    border: 1px solid rgba(226, 226, 226, 0.281);
+    border-radius: 15px;
+    padding: 7px 10px;
+    color: rgb(226, 226, 226);
+    font-size: 15px;
+}
+
+section{
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+#miniatura{
+    width: 18%;
+    margin: 7px;
+}
