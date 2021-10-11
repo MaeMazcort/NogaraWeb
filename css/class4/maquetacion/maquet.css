@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+
+body{
+    background-color: rgb(64, 160, 224);
+}
+
+ul{
+    display: inline-block;
+}
+
+ul li{
+    list-style-type: none;
+    list-style-position: inside;
+    display: inline-block;
+    margin: 20px;
+    color: white;
+    display:  inline-block;
+    margin-right: auto;
+}
+
+#sec div{
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+#tope{
+    border: 1px solid white;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+#izquierda{
+    margin: 100px 100px;
+    color: white;
+}
+
+#titulo{
+    font-size: 50px;
+}
+
+span{
+    color: rgb(187, 187, 187);
+}
+
+#botonVerde{
+    background-color: rgb(121, 161, 39);
+    padding: 10px 8px;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 30px;
+}
+
+#derecha{
+    height: 400px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+}
+
+#titulo2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#derecha div{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form input, select{
+    margin: 10px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#botonAzul{
+    background-color: rgb(29, 114, 211);
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 50px;
+    color: white;
+}
