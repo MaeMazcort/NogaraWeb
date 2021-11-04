@@ -1,0 +1,17 @@
+body{
+    background-color: #1E1E1E;
+    color: white;
+}
+
+img{
+    width: 10%;
+    /*Centrar*/
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
