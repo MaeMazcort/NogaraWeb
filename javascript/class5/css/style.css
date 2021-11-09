@@ -1,0 +1,15 @@
+body{
+    background-color: #1E1E1E;
+    color: white;
+}
+
+.animals{
+    color: aliceblue;
+    background-color: rgb(0, 174, 255);
+    text-align: center;
+}
+
+main{
+    background-color: #21233;
+    padding: 20px;
+}
